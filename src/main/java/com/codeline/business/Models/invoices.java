@@ -1,2 +1,5 @@
-package com.codeline.business.Models;public class invoices {
+package com.codeline.business.Models;
+
+public class invoices
+{
 }

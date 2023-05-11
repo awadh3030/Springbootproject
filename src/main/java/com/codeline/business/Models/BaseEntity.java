@@ -1,4 +1,4 @@
 package com.codeline.business.Models;
 
-public class Reviews {
+public class BaseEntity {
 }

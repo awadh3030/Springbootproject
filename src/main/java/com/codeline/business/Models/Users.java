@@ -1,2 +1,4 @@
-package com.codeline.business.Models;public class Users {
+package com.codeline.business.Models;
+
+public class Users {
 }

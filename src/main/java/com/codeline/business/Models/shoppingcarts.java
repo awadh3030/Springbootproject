@@ -1,2 +1,4 @@
-package com.codeline.business.Models;public class shoppingcarts {
+package com.codeline.business.Models;
+
+public class shoppingcarts {
 }
